@@ -11,6 +11,7 @@ References:
 1. https://www.kaggle.com/minabagherzade/nj-transit-rail-performance
 2. https://pbpython.com/
 3. https://mybinder.org/ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Skr0nipe/comfortdelgro_dashboard_challenge/master?urlpath=voila%2Frender%2FComfortDelgro%20Dashboard%20Challenge.ipynb)
+4. https://towardsdatascience.com/building-covid-19-analysis-dashboard-using-python-and-voila-ee091f65dcbb
 
 Features:
 1. Read all datasets downloaded
@@ -28,3 +29,4 @@ Features:
 Upgradable to:
 1. Live data using API
 2. Interactive Dashboards for viewers
+3. Map plot of trains
