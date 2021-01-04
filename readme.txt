@@ -4,7 +4,7 @@ Login to download
 References:
 1. https://www.kaggle.com/minabagherzade/nj-transit-rail-performance
 2. https://pbpython.com/
-3. https://mybinder.org/
+3. https://mybinder.org/ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Skr0nipe/comfortdelgro_dashboard_challenge/master?urlpath=voila%2Frender%2FComfortDelgro%20Dashboard%20Challenge.ipynb)
 
 Features:
 1. Read all datasets downloaded
