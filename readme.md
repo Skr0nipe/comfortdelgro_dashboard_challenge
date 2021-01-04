@@ -1,6 +1,12 @@
 Datasets downloaded from: https://www.kaggle.com/pranavbadami/nj-transit-amtrak-nec-performance
 Login to download
 
+Fill in details for mybinder.org:
+1. GitHub URL: https://github.com/Skr0nipe/comfortdelgro_dashboard_challenge
+2. Git ref: master
+3. URL to open: voila/render/ComfortDelgro Dashboard Challenge.ipynb (URL)
+
+
 References:
 1. https://www.kaggle.com/minabagherzade/nj-transit-rail-performance
 2. https://pbpython.com/
@@ -17,6 +23,7 @@ Features:
 8. Bar chart for Most Delayed Stations dashboard
 9. Bar chart for Numbers of Stops have a Direct Relationship with Delay dashboard
 10. Bar chart for Number of TRIPS has a Direct Relationship with Delay the same as lines dashboard
+11. Deploy to mybinder.org
 
 Upgradable to:
 1. Live data using API
